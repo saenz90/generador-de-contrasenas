@@ -19,8 +19,8 @@ Esta aplicación en Python genera contraseñas seguras basadas en las preferenci
 1. **Descargar repositorio o archivo.py**:
    Puedes descargar el archivo ZIP del repositorio con el boton verde que dice "<> code" -> "Download ZIP" y descomprimirlo en tu máquina o descargar el archivo "generador.py" manualmente.
 
-2. **Acceder al directorio del proyecto**:
-   Una vez descargado el repositorio, navega al directorio o carpeta que tengas el proyecto con tu explorador de archivos, presiona "Ctrl + L" y escribe cmd.exe y presiona enter.
+2. **Acceder al directorio y abrir la linea de comandos (cmd)**:
+   Una vez descargado el repositorio, navega al directorio o carpeta que tengas el proyecto con tu explorador de archivos, presiona `Ctrl` + `L`, escribe cmd.exe y presiona enter o ejecuta cmd y navega hasta la carpeta del proyecto.
 
 3. **Verificar la instalación de Python**:
    Asegúrate de que tienes Python 3.x instalado. Puedes verificar la versión de Python con el siguiente comando:
