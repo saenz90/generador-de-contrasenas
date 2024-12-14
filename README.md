@@ -10,7 +10,7 @@ Esta aplicación en Python genera contraseñas seguras basadas en las preferenci
 
 ## Requisitos
 
-- Python 3.x o superior.
+- Python 3.11 o superior.
 
 ## Instalación
 
@@ -23,7 +23,7 @@ Esta aplicación en Python genera contraseñas seguras basadas en las preferenci
    Una vez descargado el repositorio, navega a la carpeta que tengas el proyecto con tu explorador de archivos, presiona `Ctrl` + `L`, escribe cmd.exe y presiona enter o ejecuta cmd y navega hasta la carpeta del proyecto.
 
 3. **Verificar la instalación de Python**:
-   Asegúrate de que tienes Python 3.x instalado. Puedes verificar la versión de Python con el siguiente comando:
+   Asegúrate de que tienes Python 3.11 o superior instalado. Puedes verificar la versión de Python con el siguiente comando:
    ```bash
    python --version
    ```
