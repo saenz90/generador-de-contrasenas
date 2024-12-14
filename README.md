@@ -11,26 +11,16 @@ Esta aplicación en Python genera contraseñas seguras basadas en las preferenci
 ## Requisitos
 
 - Python 3.x o superior.
-- No se requieren librerías externas, ya que la aplicación usa módulos estándar de Python como `random` y `string`.
 
 ## Instalación
 
 ### Pasos para descargar y ejecutar el código en tu máquina local:
 
-1. **Clonar el repositorio**:
-   Si tienes `git` instalado, abre tu terminal y clona este repositorio en tu máquina local utilizando el siguiente comando:
-   ```bash
-   git clone https://github.com/tu_usuario/generador-de-contraseñas-seguras.git
-   ```
-   Esto descargará una copia del repositorio en tu máquina.
-
-   Si no tienes `git` instalado, puedes descargar el archivo ZIP del repositorio desde la página de GitHub y descomprimirlo en tu máquina.
+1. **Descargar repositorio o archivo.py**:
+   Puedes descargar el archivo ZIP del repositorio con el boton verde que dice "<> code" -> "Download ZIP" y descomprimirlo en tu máquina o descargar el archivo "generador.py" manualmente.
 
 2. **Acceder al directorio del proyecto**:
-   Una vez descargado el repositorio, navega al directorio del proyecto con el siguiente comando:
-   ```bash
-   cd generador-de-contraseñas-seguras
-   ```
+   Una vez descargado el repositorio, navega al directorio o carpeta que tengas el proyecto con tu explorador de archivos, presiona "Ctrl + L" y escribe cmd.exe y presiona enter.
 
 3. **Verificar la instalación de Python**:
    Asegúrate de que tienes Python 3.x instalado. Puedes verificar la versión de Python con el siguiente comando:
@@ -42,11 +32,11 @@ Esta aplicación en Python genera contraseñas seguras basadas en las preferenci
 4. **Ejecutar el script**:
    Para ejecutar la aplicación, solo necesitas correr el archivo principal del proyecto. En la terminal, ejecuta el siguiente comando:
    ```bash
-   python generador_de_contraseñas.py
+   python generador.py
    ```
    O si tu sistema utiliza `python3`, usa:
    ```bash
-   python3 generador_de_contraseñas.py
+   python3 generador.py
    ```
 
 ## Uso
@@ -67,6 +57,4 @@ Introduce la longitud de la contraseña (mínimo 8 caracteres): 12
 
 Contraseña generada: A1b@C3dE4fG!
 ```
-
-![image](https://github.com/user-attachments/assets/a3fcb382-0270-4da2-80b7-dc6176bc76cb)
 
