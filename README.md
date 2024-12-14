@@ -68,3 +68,5 @@ Introduce la longitud de la contraseña (mínimo 8 caracteres): 12
 Contraseña generada: A1b@C3dE4fG!
 ```
 
+![image](https://github.com/user-attachments/assets/a3fcb382-0270-4da2-80b7-dc6176bc76cb)
+
